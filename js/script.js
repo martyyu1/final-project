@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 
-    // 3.(Active Navigation)
+
 
     const currentPage = window.location.pathname.split('/').pop() || 'index.html';
     
